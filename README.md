@@ -89,4 +89,4 @@ and launches protractor.
 
 ### Generate tests reports
 
-`gulp report:generate --reportConfig=e2e/config/report.config.json` - will be executed but exception will be thrown (should be implemented in scope of stydents [tasks](https://github.com/M2JS/tasks) )
+`gulp report:generate --reportConfig=e2e/config/report.config.json` - will be executed but exception will be thrown (should be implemented in scope of stydents [tasks](https://github.com/Alioshka/ta-js-lab-tasks) )
